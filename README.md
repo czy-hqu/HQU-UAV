@@ -1,7 +1,7 @@
 # Joint Semantic Enhancement with Spatiotemporal Motion Guidance for UAV Precise Self-Localization
 This repository contains dataset for the paper titled Joint Semantic Enhancement with Spatiotemporal Motion Guidance for UAV Precise Self-Localization. 
 
-The dataset is currently being uploaded...
+The dataset can be downloaded [here](http://39.98.109.195:1000/share/j-_ceMDF). The password：5XUCujMlDA7m
 
 ## About Dataset
 The dataset split is as follows:
