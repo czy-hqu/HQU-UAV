@@ -4,7 +4,8 @@ This repository contains dataset for the paper titled Joint Semantic Enhancement
 The dataset can be downloaded [here](http://39.98.109.195:1000/share/j-_ceMDF). The password：5XUCujMlDA7m
 
 ## About Dataset
-![sequenceImage](./sequenceImage.png)
+<img src="./sequenceImage.png" alt="sequenceImage" width="60%"/>
+
 The dataset split is as follows:
 | Subset | Drone-Imgs | Satellite-Imgs | Sequence |
 | :---: | :---: | :---: | :---: |
